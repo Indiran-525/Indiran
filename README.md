@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Indiran
 
 🔌 **Electronics Enthusiast | PCB Design | Embedded Systems | VLSI Explorer**
 
