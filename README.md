@@ -1,33 +1,33 @@
 
 # 👋 Hi, I'm [Your Name]
 
-🔌 **Electronics Enthusiast | Embedded Systems Learner | VLSI Explorer**
+🔌 **Electronics Enthusiast | PCB Design | Embedded Systems | VLSI Explorer**
 
-Welcome to my GitHub! I’m passionate about electronics, circuit design, VLSI, and embedded systems.  
+Welcome to my GitHub! I’m passionate about electronics, pcb design, VLSI, and embedded systems.  
 I enjoy working on projects that bring together hardware, microcontrollers, and digital design.
 
 ---
 
 ## 🛠️ What I Work On
-- ⚡ **Electronics Projects**: Line follower robot, water level indicator, converters, and basic circuits  
-- 🔗 **Embedded Systems**: STM32 (STM32F407 with CubeIDE), ESP32/ESP32-C3, UART/I²C/SPI interfaces  
-- 🖥️ **VLSI Design**: Verilog HDL coding, RTL design, synthesis & simulation  
+- ⚡ **Electronics Projects**: Line follower robot, water level indicator, basic circuits.
+- 🔗 **Embedded Systems**: STM32 (STM32F103 with CubeIDE), ESP32/ESP32-C3, communication protocols
+- 🖥️ **VLSI Design**: Verilog HDL coding, RTL design, synthesis & simulation.  
 
 ---
 
 ## 📂 Featured Projects
-- 🤖 **Line Follower Robot with Color Detection** – follows a path and picks/drops colored boxes  
-- 💧 **Water Level Indicator** – simple circuit to monitor water levels using sensors  
-- ⚡ **AC to DC Converter** – transformer + bridge rectifier + regulator + filtering  
-- 🖥️ **MAC Unit in Verilog** – multiply-accumulate design with testbench simulation  
-- 📟 **Microcontroller Interfaces** – I²C/SPI/UART communication with sensors and modules  
+- 💧 **Water Level Indicator** – simple circuit to monitor water levels without the use of sensors and just basic electronics.
+- 🤖 **Line Follower Robot** – A bot that automatically follows a line, without any external controls.
+- 📟 **Temperature controlled AC remote** – A custom diy aC remote that senses the temperature and sends on/off signal to AC accordingly.
 
 ---
 
 ## 📚 Currently Learning
-- Real-time embedded systems (STM32 + FreeRTOS basics)  
-- Low-power VLSI techniques and digital IC design  
-- GitHub workflow for documenting electronics projects  
+- STM32/STM32CUBEIDE  
+- Low-power VLSI techniques and digital IC design
+- Verilog HDL
+- C programming   
+- PCB design 
 
 ---
 
