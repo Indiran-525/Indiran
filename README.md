@@ -24,9 +24,9 @@ I enjoy working on projects that bring together hardware, microcontrollers, and 
 ## 💡 Skills  
 
 ### 🔹 Programming  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Verilog](https://img.shields.io/badge/Verilog-ff6600?style=for-the-badge&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Verilog](https://img.shields.io/badge/Verilog-ff6600?style=for-the-badge&logoColor=white)  
+  
+
 
 ### 🔹 Tools  
 ![Xilinx Vivado](https://img.shields.io/badge/Vivado-FFB500?style=for-the-badge&logo=xilinx&logoColor=white)  
