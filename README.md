@@ -40,7 +40,7 @@ I enjoy working on projects that bring together hardware, microcontrollers, and 
 
 ## 📚 Currently Learning
 - STM32 / STM32CubeIDE  
-- Low-power VLSI techniques and digital IC design  
+- VLSI Design Princples and Verilog HDL  
 - PCB design  
 
 ---
@@ -51,4 +51,4 @@ I enjoy working on projects that bring together hardware, microcontrollers, and 
 
 ---
 
-✨ *“From circuits to silicon — building step by step.”*
+✨ *“From silicon to circuits — building step by step.”*
