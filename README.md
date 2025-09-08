@@ -8,7 +8,7 @@ I enjoy working on projects that bring together hardware, microcontrollers, and 
 ---
 
 ## 🛠️ What I Work On
-- ⚡ **Electronics Projects**: Line follower robot, water level indicator, basic circuits  
+- ⚡ **Electronics Projects**: Line follower robot, basic circuits
 - 🔗 **Embedded Systems**: STM32 (STM32F103 with CubeIDE), ESP32/ESP32-C3, communication protocols  
 - 🖥️ **VLSI Design**: Verilog HDL coding, backend circuit design  
 
